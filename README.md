@@ -44,3 +44,10 @@ Application e-commerce simple développée en PHP pur et MySQL.
 
 - Le dossier `uploads/` est utilisé pour les images produits uploadées depuis l'administration.
 - Les commandes sont simulées ; le paiement est fictif mais le statut est enregistré.
+
+
+## Createurs et
+## 👥 Collaborateurs
+
+- KPEGLO Esther
+- TCHABO Emmanuel
